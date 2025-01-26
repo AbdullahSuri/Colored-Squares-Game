@@ -67,7 +67,8 @@
 - Processing Framework: For creating the graphical interface and handling mouse/keyboard interactions.
 - Python Mode: For implementing the game logic.
 
-💻 Demo
+## 💻 Demo
+
 Initial Board:
 
 ### Initial Board
