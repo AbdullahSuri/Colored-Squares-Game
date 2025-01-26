@@ -15,9 +15,6 @@
 - **Visual Feedback**:
   - Colored line segments and squares (red for Player 1, blue for Player 2).
   - Scoreboard displayed on the top-right corner of the screen.
-- **Restart and Termination**:
-  - Press `q`, `Q`, `x`, or `X` to quit.
-  - Click anywhere on the screen after the game ends to restart.
 
 ---
 
